@@ -1,4 +1,4 @@
-# E09b-Lighting
+# E09b-Lighting Sunny Patel, 2020, C220 Assignment
 
 The purpose of this exercise is for you to explore 3D lighting and camera movement in Godot. There are many steps, and some of the concepts are a little complicated, so I would recommend that you stop and test frequently. I have tried to be as clear as possible.
 
